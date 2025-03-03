@@ -6,3 +6,5 @@
 **DURATION**:4 WEEKS
 **MENTOR**:NEELA SANTOSH
 # DESCRIPTION OF TASK 3 I HAVE COMPLETED END TO END DATA SCIENCE PROJECT
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/d8dfc778-5205-48cb-b5ff-982bb6fea5b7)
